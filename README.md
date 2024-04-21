@@ -27,9 +27,7 @@ Please enter the 'from tower' and the 'to tower' separated by a dash (eg. 3-2)
 
 ### Installation:
 
-```
-pip install towers_of_hanoi_digs
-```
+Download towers.py from the repo
 
 ### Rules:
 
@@ -55,4 +53,5 @@ Or you can type `r` or `R` to restart.
 ### Repository:
 
 https://github.com/dgsmith7/towers-of-hanoi
+
 # towers-of-hanoi
