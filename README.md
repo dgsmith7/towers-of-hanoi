@@ -27,10 +27,11 @@ Please enter the 'from tower' and the 'to tower' separated by a dash (eg. 3-2)
 
 ### Installation:
 
-From the command line, clone this repo to your local machine with python3 installed
+From the command line, clone this repo to your local machine with python3 installed, then navigate into the new directory
 
 ```
-gh repo clone dgsmith7/towers-of-hanoi
+git clone https://github.com/dgsmith7/towers-of-hanoi.git
+cd towers-of-hanoi/
 ```
 
 ### Rules:
