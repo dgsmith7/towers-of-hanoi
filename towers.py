@@ -18,9 +18,6 @@ fr = None
 to = None
 holder = 0
 
-def add_one(number):
-  return number + 1
-
 def game_reset():
   global tower1
   global tower2
